@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: 'C:/Users/u0h058/Documents/NetBeansProjects/PhpProject1/app/config/routing_dev.yml'
